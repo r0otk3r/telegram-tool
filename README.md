@@ -27,7 +27,7 @@ Automatically saves progress every few iterations to protect against session int
 
 ### 1. Clone or Download
 ```bash
-git clone https://github.com/yourusername/telegram-tool.git
+git clone https://github.com/r0otk3r/telegram-tool.git
 cd telegram-tool
 ```
 ### 2. Install Requirements
