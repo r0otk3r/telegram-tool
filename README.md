@@ -144,3 +144,9 @@ python3 telegram_tool.py send --usernames valid_users.txt --message "Hey there ð
 This project is released under the MIT License  use responsibly and ethically.
 Never use this tool for spam or harassment.
 
+---
+
+## Official Channels
+
+- [Telegram @r0otk3r](https://t.me/r0otk3r)
+- [X @r0otk3r](https://x.com/r0otk3r)
