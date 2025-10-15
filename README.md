@@ -1,6 +1,6 @@
 # 🧠 Telegram Automation & Safety Tool
 
-A **safe, async Telegram automation utility** built with [Telethon](https://github.com/LonamiWebs/Telethon), designed for **username validation**, **group member extraction**, and **controlled message sending** — with built-in **anti-spam safety, rate limiting, and randomized delays**.
+A **safe, async Telegram automation utility** built with [Telethon](https://github.com/LonamiWebs/Telethon), designed for **username validation**, **group member extraction**, and **controlled message sending**  with built-in **anti-spam safety, rate limiting, and randomized delays**.
 
 ---
 
